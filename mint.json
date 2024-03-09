@@ -60,7 +60,9 @@
     {
       "group": "Guides",
       "pages": [
-        "guides/open-source"
+        "guides/open-source",
+        "guides/hosted",
+        "guides/enterprise"
       ]
     },
     {
