@@ -7,12 +7,12 @@
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
+    "primary": "#fecdd3",
     "light": "#f43f5e",
     "dark": "#f43f5e",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#fb7185",
+      "to": "#fecdd3"
     }
   },
   "topbarLinks": [
@@ -34,7 +34,7 @@
   "anchors": [
     {
       "name": "Home",
-      "icon": "book-open-cover",
+      "icon": "house",
       "url": "https://mintlify.com/docs"
     },
     {
